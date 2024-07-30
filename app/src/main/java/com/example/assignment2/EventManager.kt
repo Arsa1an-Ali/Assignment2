@@ -10,6 +10,4 @@ object EventManager {
     fun getEvents(): List<Event> {
         return events
     }
-
-
 }
